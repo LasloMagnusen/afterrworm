@@ -16864,6 +16864,11 @@ footer .widget a:hover{
       .ticketline{
         padding-right: 15%;
       }
+
+      #ticketcontainer{
+
+        padding-left: 20% !important;
+      }
  
 }
 
